@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.py[cod]
+*.so
+.env/
+.venv/
+.vscode/
+.idea/
+*.log
+.DS_Store
+*.mp4
+*.avi
+*.mov
+*.pt
+output_final/
+runs/
+stubs/

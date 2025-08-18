@@ -1,0 +1,12 @@
+prefix=d:/Football_Project/venv/Library
+exec_prefix=d:/Football_Project/venv/Library
+libdir=d:/Football_Project/venv/Library/lib
+includedir=d:/Football_Project/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -7,7 +7,6 @@
 .idea/
 *.log
 .DS_Store
-*.mp4
 *.avi
 *.mov
 *.pt
